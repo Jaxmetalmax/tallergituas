@@ -1,1 +1,2 @@
-Hola, esto estamos en taller de git.
+Hola, estamos en taller de git.
+Y ésta es una nueva linea!
